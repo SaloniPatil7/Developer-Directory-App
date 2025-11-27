@@ -1,0 +1,248 @@
+[
+
+  {
+    "id": "1764227754120",
+    "name": "Tushar",
+    "role": "Frontend",
+    "techStack": [
+      "java",
+      "springboot",
+      "php"
+    ],
+    "experience": 2,
+    "createdAt": "2025-11-27T07:15:54.120Z"
+  },
+
+  {
+    "id": "1764222636628",
+    "name": "Saloni Desai",
+    "role": "Backend",
+    "techStack": [
+      "FastAPI",
+      "Python",
+      "MongoDB"
+    ],
+    "experience": 4,
+    "createdAt": "2025-11-27T05:50:36.628Z"
+  },
+  {
+    "id": 1,
+    "name": "Aarav Mehta",
+    "role": "Frontend",
+    "techStack": [
+      "React",
+      "JavaScript",
+      "Tailwind CSS",
+      "HTML"
+    ],
+    "experience": 2
+  },
+  {
+    "id": 2,
+    "name": "Riya Sharma",
+    "role": "Backend",
+    "techStack": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "JWT"
+    ],
+    "experience": 3
+  },
+  {
+    "id": 3,
+    "name": "Kabir Singh",
+    "role": "Full-Stack",
+    "techStack": [
+      "React",
+      "Node.js",
+      "PostgreSQL"
+    ],
+    "experience": 4
+  },
+  {
+    "id": 4,
+    "name": "Neha Kulkarni",
+    "role": "Frontend",
+    "techStack": [
+      "Vue.js",
+      "TypeScript",
+      "SCSS"
+    ],
+    "experience": 1
+  },
+  {
+    "id": 5,
+    "name": "Aditya Rao",
+    "role": "Backend",
+    "techStack": [
+      "Django",
+      "Python",
+      "PostgreSQL"
+    ],
+    "experience": 5
+  },
+  {
+    "id": 6,
+    "name": "Saanvi Patel",
+    "role": "Full-Stack",
+    "techStack": [
+      "Angular",
+      "Node.js",
+      "MySQL"
+    ],
+    "experience": 3
+  },
+  {
+    "id": 7,
+    "name": "Rohan Verma",
+    "role": "Frontend",
+    "techStack": [
+      "React",
+      "Redux",
+      "JavaScript"
+    ],
+    "experience": 2
+  },
+  {
+    "id": 8,
+    "name": "Meera Nair",
+    "role": "Backend",
+    "techStack": [
+      "Go",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "experience": 4
+  },
+  {
+    "id": 9,
+    "name": "Arjun Deshmukh",
+    "role": "Full-Stack",
+    "techStack": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "experience": 5
+  },
+  {
+    "id": 10,
+    "name": "Isha Jain",
+    "role": "Frontend",
+    "techStack": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "experience": 1
+  },
+  {
+    "id": 11,
+    "name": "Dev Malhotra",
+    "role": "Backend",
+    "techStack": [
+      "Laravel",
+      "PHP",
+      "MySQL"
+    ],
+    "experience": 4
+  },
+  {
+    "id": 12,
+    "name": "Ananya Gupta",
+    "role": "Full-Stack",
+    "techStack": [
+      "Next.js",
+      "Node.js",
+      "MongoDB"
+    ],
+    "experience": 3
+  },
+  {
+    "id": 13,
+    "name": "Varun Kapoor",
+    "role": "Frontend",
+    "techStack": [
+      "Svelte",
+      "TypeScript",
+      "Tailwind"
+    ],
+    "experience": 2
+  },
+  {
+    "id": 14,
+    "name": "Pooja Khatri",
+    "role": "Backend",
+    "techStack": [
+      "Spring Boot",
+      "Java",
+      "MySQL"
+    ],
+    "experience": 5
+  },
+  {
+    "id": 15,
+    "name": "Nikhil Bansal",
+    "role": "Full-Stack",
+    "techStack": [
+      "React",
+      "Express",
+      "Firebase"
+    ],
+    "experience": 3
+  },
+  {
+    "id": 16,
+    "name": "Sonia Dsouza",
+    "role": "Frontend",
+    "techStack": [
+      "Flutter Web",
+      "Dart"
+    ],
+    "experience": 2
+  },
+  {
+    "id": 17,
+    "name": "Harshdeep Singh",
+    "role": "Backend",
+    "techStack": [
+      "Ruby on Rails",
+      "PostgreSQL"
+    ],
+    "experience": 4
+  },
+  {
+    "id": 18,
+    "name": "Simran Kaur",
+    "role": "Full-Stack",
+    "techStack": [
+      "React",
+      "Node.js",
+      "AWS"
+    ],
+    "experience": 6
+  },
+  {
+    "id": 19,
+    "name": "Karan Yadav",
+    "role": "Frontend",
+    "techStack": [
+      "React",
+      "Chakra UI",
+      "JavaScript"
+    ],
+    "experience": 1
+  },
+  {
+    "id": 20,
+    "name": "Tanya Desai",
+    "role": "Backend",
+    "techStack": [
+      "FastAPI",
+      "Python",
+      "MongoDB"
+    ],
+    "experience": 3
+  }
+]
