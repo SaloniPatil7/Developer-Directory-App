@@ -23,7 +23,7 @@ export default function App() {
       if (filters.role) params.role = filters.role;
       if (filters.tech) params.tech = filters.tech;
 
-      const res = await axios.get("http://localhost:3000/developers", {
+      const res = await axios.get("https://developer-directory-app-78fz.onrender.com/developers", {
         params,
       });
       setDevelopers(res.data);
@@ -49,7 +49,7 @@ export default function App() {
         .map((t) => t.trim())
         .filter(Boolean);
 
-      await axios.post("http://localhost:3000/developers", {
+      await axios.post("https://developer-directory-app-78fz.onrender.com/developers", {
         ...form,
         techStack: techArray,
       });
